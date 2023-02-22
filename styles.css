@@ -5,12 +5,16 @@ body {
     font-family: 'DM Sans', serif;
     align-items: center;
 }
+header {
+    max-width: 600px;
+}
 section.concepts {
     max-width: 600px;
     line-height: 175%;
 }
 img.logo {
-    width: 600px;
+    height: auto;
+    max-width: 100%;
 }
 .blueColor {
     color: #1A65F3;
