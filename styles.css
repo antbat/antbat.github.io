@@ -7,4 +7,14 @@ body {
 }
 section.concepts {
     max-width: 600px;
+    line-height: 175%;
+}
+img.logo {
+    width: 600px;
+}
+.blueColor {
+    color: #1A65F3;
+}
+.accent {
+    font-weight: bolder;
 }
