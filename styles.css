@@ -5,7 +5,7 @@ body {
     font-family: 'DM Sans', serif;
     align-items: center;
 }
-header {
+header, footer {
     max-width: 600px;
 }
 section.concepts {
