@@ -2,7 +2,7 @@ body {
     padding: 50px;
     display: flex;
     flex-direction: column;
-    font-family: 'DM Sans', serif;
+    font-family: 'Montserrat Alternates', sans-serif;
     align-items: center;
 }
 header, footer, section.concepts {
@@ -20,8 +20,8 @@ img.logo {
     height: auto;
     max-width: 100%;
 }
-.blueColor {
-    color: #1A65F3;
+.logoColor {
+    color: #50A060;
 }
 .accent {
     font-weight: bolder;
