@@ -1,1 +1,0 @@
-console.log("this is aiMarketAnalytics.com startUp site");
